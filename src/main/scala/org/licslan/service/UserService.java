@@ -24,6 +24,7 @@ public class UserService {
 
 
 
+    //DefaultTransactionDefinition 实现了TransactionDefinition 默认的传播特性为PROPAGATION_REQUIRED ，隔离级别为ISOLATION_DEFAULT
 
     /**实际上这个没有必要死记硬背  需要理解  用的时候多看复习几次就好  工作不是考试 ^_^  如果面试还是大致看看**/
 
